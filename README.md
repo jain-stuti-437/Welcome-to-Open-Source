@@ -793,6 +793,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/jain-stuti-437">
+                    <img src="https://avatars.githubusercontent.com/u/181657530?v=4" width="100px;"
+                        alt="Stuti Jain" />
+                    <br />
+                    <sub>
+                        <b>Aman Patra</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/riyaaaarane">
                     <img src="https://avatars.githubusercontent.com/u/122218240?v=4" width="100px;"
                         alt="Riya Rane" />
